@@ -4,4 +4,5 @@
 ## Notes de cours
 
 * [À PROPOS DU COURS](Slides/Apropos.pdf)
+* [Statistiques descriptives](Slides/Statistiques.descriptives.pdf)
 
