@@ -3,6 +3,6 @@
 
 ## Notes de cours
 
-* [À PROPOS DU COURS](Slides/Apropos.pdf)
+* [À propos du cours](Slides/Apropos.pdf)
 * [Statistiques descriptives](Slides/Statistiques.descriptives.pdf)
 
