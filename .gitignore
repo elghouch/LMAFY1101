@@ -1,12 +1,3 @@
 /slides/*
 !slides/Apropos.pdf
 
-
-
-/application/*
-!application/config/
-/application/config/*
-!application/config/New.txt
-!application/index.php
-
-
