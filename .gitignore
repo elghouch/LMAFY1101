@@ -1,3 +1,7 @@
+.RData
+.Rhistory
+*.Rproj
+
 /slides/*
 !slides/Apropos.pdf
 !slides/Statistiques.descriptives.pdf
@@ -7,3 +11,4 @@
 /Infigure/*
 
 /cache/*
+.Rproj.user
