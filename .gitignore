@@ -2,13 +2,17 @@
 .Rhistory
 *.Rproj
 
+Slides_2018
+style
+
+
 /slides/*
 !slides/Apropos.pdf
 !slides/Statistiques.descriptives.pdf
 
 /Extfigures/*
 
-/Infigure/*
+/Infigures/*
 
 /cache/*
 .Rproj.user
