@@ -9,6 +9,8 @@ style
 /slides/*
 !slides/Apropos.pdf
 !slides/Statistiques.descriptives.pdf
+!slides/Var.alea1.pdf
+!slides/Var.alea2.pdf
 
 /Extfigures/*
 
