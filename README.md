@@ -6,6 +6,7 @@
 * [À propos du cours](Slides/Apropos.pdf)
 * [Exploration de données avec R](https://bookdown.org/ael/rexplor/)
 * [Statistiques descriptives](Slides/Statistiques.descriptives.pdf)
+* [Les probabilités](Slides/Prob.pdf)
 * [Variables aléatoires, Partie 1: Généralités](Slides/Var.alea1.pdf)
 * [Variables aléatoires, Partie 2: Quelques lois usuelles](Slides/Var.alea2.pdf)
 
