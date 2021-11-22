@@ -9,4 +9,4 @@
 * [Les probabilités](Slides/Prob.pdf)
 * [Variables aléatoires, Partie 1: Généralités](Slides/Var.alea1.pdf)
 * [Variables aléatoires, Partie 2: Quelques lois usuelles](Slides/Var.alea2.pdf)
-
+* [Analyse statistique des incertitudes de mesure](Slides/Inc.pdf)
