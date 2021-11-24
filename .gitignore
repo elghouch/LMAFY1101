@@ -6,14 +6,14 @@ Slides_2018
 style
 
 
-/slides/*
-!slides/Apropos.pdf
-!slides/Statistiques.descriptives.pdf
-!slides/Prob.pdf
-!slides/Var.alea1.pdf
-!slides/Var.alea2.pdf
-!slides/Inc.pdf
-!slides/Reg.pdf
+/Lectures/*
+!Lectures/Apropos.pdf
+!Lectures/Statistiques.descriptives.pdf
+!Lectures/Prob.pdf
+!Lectures/Var.alea1.pdf
+!Lectures/Var.alea2.pdf
+!Lectures/Inc.pdf
+!Lectures/Reg.pdf
 
 /Extfigures/*
 
