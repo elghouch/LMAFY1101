@@ -20,6 +20,6 @@ style
 
 /Labs/*
 !Labs/1.pdf
-!Labs/1S.pdf
+#!Labs/1S.pdf
 
 
