@@ -1,7 +1,3 @@
-# LMAFY1101
-
-Exploration de données et introduction à l'inférence statistique
-
 ## :zap: Lectures
 
 Les notes de cours
