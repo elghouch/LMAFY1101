@@ -2,8 +2,6 @@
 
 Exploration de données et introduction à l'inférence statistique
 
----
-
 ## :zap: Lectures
 
 Les notes de cours
@@ -16,8 +14,6 @@ Les notes de cours
 -   [Variables aléatoires, Partie 2: Quelques lois usuelles](Lectures/Var.alea2.pdf)
 -   [Analyse statistique des incertitudes de mesure](Lectures/Inc.pdf)
 -   [Régression et corrélation](Lectures/Reg.pdf)
-
----
 
 ## :zap: Labs
 
