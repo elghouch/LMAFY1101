@@ -1,5 +1,6 @@
-plugins:
-  - jemoji
-remote_theme: tuur29/pages-themes-cayman
 title: Custom Cayman theme
 description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+remote_theme: tuur29/pages-themes-cayman
+plugins:
+  - jemoji
