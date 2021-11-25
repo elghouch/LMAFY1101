@@ -1,10 +1,13 @@
 .RData
 .Rhistory
 *.Rproj
+.Rproj.user
 
+Extfigures
+Infigures
+cache
 Slides_2018
 style
-
 
 /Lectures/*
 !Lectures/Apropos.pdf
@@ -15,9 +18,8 @@ style
 !Lectures/Inc.pdf
 !Lectures/Reg.pdf
 
-/Extfigures/*
+/Labs/*
+!Labs/1.pdf
+!Labs/1S.pdf
 
-/Infigures/*
 
-/cache/*
-.Rproj.user
