@@ -1,34 +1,8 @@
-title: Ektelo
-email: mhay@colgate.edu
-description: >- # this means to ignore newlines until "baseurl:"
-   Ektelo is a novel programming framework and system for implementing both existing and new privacy algorithms.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ektelo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
-
-# Build settings
-markdown: kramdown
-# theme: minima
-theme: jekyll-theme-minimal #jekyll-theme-slate
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
 plugins:
-  - jekyll-feed
-
-# slate specific stuff
-github:
-  repository_url: https://github.com/ektelo/ektelo
-  is_user_page: false
-  is_project_page: true
-show_downloads: false
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - jemoji
