@@ -1,5 +1,7 @@
 plugins:
   - jemoji
 remote_theme: pages-themes/cayman
-name: ""
-title: null
+github:
+  is_project_page: false
+  name: ""
+  title: null
