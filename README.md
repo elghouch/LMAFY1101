@@ -1,3 +1,7 @@
+---
+title: My custom title
+---
+
 ## :zap: Lectures
 
 Les notes de cours
