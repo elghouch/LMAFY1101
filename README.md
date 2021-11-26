@@ -20,4 +20,5 @@ Les notes de cours
 Les travaux pratiques
 
 - TP 1 :  [Excercices](Labs/1.pdf)  [Solutions](Labs/1S.pdf) 
+- TP  2:  [Excercices](Labs/2.pdf)  [Solutions](Labs/2S.pdf) 
 
