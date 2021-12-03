@@ -1,7 +1,7 @@
 ---
 title: "Exploration de données et introduction à l'inférence statistique"
 subtitle: "LMAFY1101"
-# author: "[Anouar El Ghouch](https://uclouvain.be/fr/repertoires/anouar.elghouch)"
+author: "[Anouar El Ghouch](https://uclouvain.be/fr/repertoires/anouar.elghouch)"
 #date: 2021
 output:
   #github_document
