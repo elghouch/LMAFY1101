@@ -2,8 +2,6 @@
 
 Exploration de données et introduction à l'inférence statistique
 
-
-
 ## :zap: Lectures
 
 Les notes de cours
@@ -21,6 +19,8 @@ Les notes de cours
 
 Les travaux pratiques
 
-- TP 1 :  [Excercices](Labs/1.pdf)  [Solutions](Labs/1S.pdf) 
-- TP  2 :  [Excercices](Labs/2.pdf)  [Solutions](Labs/2S.pdf) 
-
+|      |                           |                          |                         |
+| ---- | ------------------------- | ------------------------ | ----------------------- |
+| TP 1 | Utilisation de R          | [Excercices](Labs/1.pdf) | [Corrigés](Labs/1S.pdf) |
+| TP 2 | Statistiques descriptives | [Excercices](Labs/2.pdf) | [Corrigés](Labs/2S.pdf)                        |
+|   TP3   |          Probabilités                 |  [Excercices](Labs/3.pdf)                         |  [Corrigés](Labs/3S.pdf)                       |
