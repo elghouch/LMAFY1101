@@ -14,8 +14,10 @@ Exploration de données et introduction à l'inférence statistique
 -   [Régression et corrélation](Lectures/Reg.pdf)
 
 ## :zap: Travaux pratiques
+
 |      |                           |                          |                         |
 | ---- | ------------------------- | ------------------------ | ----------------------- |
 | TP 1 | Utilisation de R          | [Excercices](Labs/1.pdf) | [Corrigés](Labs/1S.pdf) |
 | TP 2 | Statistiques descriptives | [Excercices](Labs/2.pdf) | [Corrigés](Labs/2S.pdf)                        |
 |   TP3   |          Probabilités                 |  [Excercices](Labs/3.pdf)                         |  [Corrigés](Labs/3S.pdf)                       |
+
