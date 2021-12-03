@@ -2,9 +2,7 @@
 
 Exploration de données et introduction à l'inférence statistique
 
-## :zap: Lectures
-
-Les notes de cours
+## :zap: Notes de cours
 
 -   [À propos du cours](Lectures/Apropos.pdf)
 -   [Exploration de données avec R](https://bookdown.org/ael/rexplor/)
@@ -15,10 +13,7 @@ Les notes de cours
 -   [Analyse statistique des incertitudes de mesure](Lectures/Inc.pdf)
 -   [Régression et corrélation](Lectures/Reg.pdf)
 
-## :zap: Labs
-
-Les travaux pratiques
-
+## :zap: Travaux pratiques
 |      |                           |                          |                         |
 | ---- | ------------------------- | ------------------------ | ----------------------- |
 | TP 1 | Utilisation de R          | [Excercices](Labs/1.pdf) | [Corrigés](Labs/1S.pdf) |
