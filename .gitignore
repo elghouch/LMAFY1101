@@ -2,6 +2,9 @@
 .Rhistory
 *.Rproj
 .Rproj.user
+index.md
+index.Rmd
+README.md
 git.txt
 
 Extfigures
