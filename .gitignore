@@ -2,6 +2,7 @@
 .Rhistory
 *.Rproj
 .Rproj.user
+_config.yml
 index.md
 index.Rmd
 README.md
