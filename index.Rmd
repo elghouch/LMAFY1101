@@ -2,12 +2,18 @@
 title: "Exploration de données et introduction à l'inférence statistique"
 subtitle: "LMAFY1101"
 # author: "[Anouar El Ghouch](https://uclouvain.be/fr/repertoires/anouar.elghouch)"
+#date: 2021
 output:
-  github_document
+  #github_document
+  prettydoc::html_pretty:
+    theme: leonids
+  rmdformats::downcute: 
+    toc_float: true
+    toc_depth: 4.0
 ---
 
 
-## :zap: Notes de cours
+## Notes de cours
 
 -   [À propos du cours](Lectures/Apropos.pdf)
 -   [Exploration de données avec R](https://bookdown.org/ael/rexplor/)
@@ -19,7 +25,7 @@ output:
 -   [Régression et corrélation](Lectures/Reg.pdf)
 
 
-## :zap: Travaux pratiques
+## Travaux pratiques
 
 |      |                           |                          |                         |
 | ---- | ------------------------- | ------------------------ | ----------------------- |
