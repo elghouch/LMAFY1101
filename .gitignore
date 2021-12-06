@@ -5,7 +5,6 @@
 _config.yml
 index.md
 index.Rmd
-README.md
 git.txt
 
 Extfigures
@@ -30,5 +29,7 @@ style
 #!Labs/2S.pdf
 !Labs/3.pdf
 #!Labs/3S.pdf
+!Labs/4.pdf
+#!Labs/4S.pdf
 
 
