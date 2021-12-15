@@ -1,6 +1,5 @@
 Exploration de données et introduction à l’inférence statistique
 ================
-[Anouar El Ghouch](https://uclouvain.be/fr/repertoires/anouar.elghouch)
 
 > Notes de cours, énoncés des TPs, solutions …
 
