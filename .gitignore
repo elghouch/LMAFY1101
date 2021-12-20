@@ -2,17 +2,17 @@
 .Rhistory
 *.Rproj
 .Rproj.user
-_config.yml
 index.md
 index.Rmd
 README.Rmd
-git.txt
+.git.txt
 
 Extfigures
 Infigures
 cache
-
+docs
 2018
+2021
 style
 
 /Lectures/*
