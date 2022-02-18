@@ -27,7 +27,7 @@ Examen
 
 /Labs/*
 !Labs/1.pdf
-#!Labs/1S.pdf
+!Labs/1S.pdf
 !Labs/2.pdf
 #!Labs/2S.pdf
 !Labs/3.pdf
